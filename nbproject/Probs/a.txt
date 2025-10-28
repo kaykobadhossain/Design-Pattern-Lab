@@ -1,0 +1,10 @@
+Bloaters(Long Method)
+    1.God Class
+-eki classs e sob kaj kora hoise 
+
+2. Bloaters(priminitive obsession):
+    only double type a and b. 
+3.(Dispensables)Dead Code :  // never reach
+        throw new Error();
+4. Extra Comment: // never reach
+Couplers -if else if else 
